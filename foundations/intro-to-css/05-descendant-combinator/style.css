@@ -1,6 +1,5 @@
 /* Add CSS Styling */
-
-div {
+.container .text {
     color: red;
     background-color: yellow;
     text-align: center;

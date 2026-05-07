@@ -1,1 +1,38 @@
 /* Add CSS Styling */
+h1, h2, h3, h4, h5 {
+    font-family:Verdana, Dejavu sans, sans-serif
+
+}
+
+h1  {
+    background-color: #FA8072;
+    color: black;
+    font-size: 24px;
+    font-family: Verdana, DejaVu sans, sans-serif;
+    font-weight: normal;
+}
+
+h2 {
+    color:blue;
+    background-color: white;
+    font-size: 39px;
+    font-weight: normal;
+}
+
+h3 {
+    font-size: 24px;
+    background-color: #FA8072;
+    font-weight: normal;
+}
+
+h4 {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h5 {
+    background-color: #FA8072;
+    font-size: 24px;
+    font-weight: normal;
+}
